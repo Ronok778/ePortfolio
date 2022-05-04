@@ -3,13 +3,13 @@ Wk8 ePortfolio slides
 <html>
 <head>
   <body>
-    <h1> Communication concepts and strategies </h1>
+    <h3> Communication concepts and strategies </h3>
     <img src="cm12.png"alt"picture">
-    <h2> Show confidence and skills in oral communication and presentations</h2>
+    <h3> Show confidence and skills in oral communication and presentations</h3>
       <img src="11200.png"alt"picture">
     <h3> Work effectively as a part of a team </h3>
-    <h4> Communicate effectively in a professional context </h4>
-    <h5> Define and demonstrate conflit management and resolution strategies </h5>
+    <h3> Communicate effectively in a professional context </h3>
+    <h3> Define and demonstrate conflit management and resolution strategies </h3>
   </body>
  </head>
   </html>
