@@ -15,7 +15,10 @@ Wk8 ePortfolio slides
           <p> Now I will show a picture of my team work where we 3team members were dicussing the main isuues for our group work.
               <img src="3jonjpg.JPG"alt",,">
     <h3> Communicate effectively in a professional context </h3>
+      <p> In our work place or any other professional context area it's very important to communicate effectively. If we don't communicate effectively our work can be failure project.There is a lots of way to foster communication effectively in our professionl context like, give my whole attention,inform and inspire,choose the best method to communicate etc. </p>
     <h3> Define and demonstrate conflit management and resolution strategies </h3>
+      <p> During our daily work activities we face lots of conflict management issues. We must need to solve that problem by Conflict management strategis.If I share my personal experience last week there was a group task's deadline.But the portion which must have done y my team mates they did not do theis things. They let me know just the day before of the submission. In this conflictt situation I choose to compromise strategies and done the work with the whole team.
+      
   </body>
  </head>
   </html>
