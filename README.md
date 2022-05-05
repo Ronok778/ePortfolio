@@ -11,6 +11,9 @@ Wk8 ePortfolio slides
           Here is the evidence that I attended the last week presentation:
           <img src="presentationjpg.JPG"alt"..">
     <h3> Work effectively as a part of a team </h3>
+      <p>The only focus of the team should be their set common goals and all the members should be dedicated. When I was at my team I was always ddicated towards my woks.There are few things which plays significate role into our team work. One of them is effective communication.<br>
+          <p> Now I will show a picture of my team work where we 3team members were dicussing the main isuues for our group work.
+              <img src="2jonjpg.JPG"alt",,">
     <h3> Communicate effectively in a professional context </h3>
     <h3> Define and demonstrate conflit management and resolution strategies </h3>
   </body>
